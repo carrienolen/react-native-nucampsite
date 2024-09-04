@@ -1,6 +1,6 @@
 import { useState } from "react";
-import { ScrollView } from "react-native";
-import { Card, Text, ListItem, Avatar } from "react-native-elements";
+import { ScrollView, Text } from "react-native";
+import { Card, ListItem, Avatar } from "react-native-elements";
 import { PARTNERS } from "../shared/partners";
 
 const Mission = () => {
