@@ -283,7 +283,7 @@ const Main = () => {
       }}
     >
       <Drawer.Navigator
-        initialRouteName="HomeDrawer"
+        initialRouteName="Home"
         drawerContent={CustomDrawerContent}
         screenOptions={{
           headerShown: false,
